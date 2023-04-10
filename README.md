@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello Everyone ! 👋
 
-<!--
-**BerniceLimJX/BerniceLimJX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bernice Lim Jing Xuan is a Year 1 Data Engineering Degree student learning and suffering in different kinds of programming language and Analyzing Skills✨
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me 😚
+I am 20 years old.🍰
+I am from Bandar Seri Alam , Johore.🏡
+The second child in my family.👪 
+Primary School : SJK(C)NAM Heng🏫 
+Secondary School : SMK Dato Penggawa Timur🏫 
+Pre-University : UTMSPACE Asasi🏫 
+University : Universiti Teknologi Malaysia🏫 
+I am a scholar of Suruhanjaya Perkhidmatan Air Negara (SPAN)🎓
+My Dream is to Travel Around the World✈️
