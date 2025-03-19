@@ -1,9 +1,9 @@
 ### Hello Everyone ! 👋
 
-Bernice Lim Jing Xuan is a Year 1 Data Engineering Degree student learning and suffering in different kinds of programming language and Analyzing Skills✨
+Bernice Lim Jing Xuan is a Year 3 Data Engineering Degree student learning and suffering in different kinds of programming language and Analyzing Skills✨
 
 ### About Me 😚
-I am 20 years old.🍰<br>
+I am 22 years old.🍰<br>
 I am from Bandar Seri Alam , Johore.🏡<br>
 The second child in my family.👪 <br>
 Primary School : SJK(C)NAM Heng🏫 <br>
